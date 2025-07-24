@@ -87,11 +87,8 @@ Use the visualization dashboard file (Power BI / Tableau / Excel) to explore ins
 
 Filter by Year, Gender, Department, or Manager to drill down analysis.
 
-📬 Contact
-For feedback or collaboration opportunities, feel free to reach out:
-
 Author: Saurabh Shahare
 
 Email: sourabhshahare19241@gmail.com
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: linkedin.com/in/saurabh-shahare 
